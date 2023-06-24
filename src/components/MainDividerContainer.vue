@@ -1,7 +1,7 @@
 <template>
   <div class="contenedor-principal">
     <div class="contenedor-izquierdo">
-      <RefrigeradorVirtual />
+      <router-view />
     </div>
     <div class="contenedor-derecho">
       <input type="text" placeholder="Ingrese texto aquí">

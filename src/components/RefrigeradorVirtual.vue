@@ -1,9 +1,9 @@
 <!-- RefrigeradorVirtual.vue -->
 <template>
   <div>
-    dslakjndklasndkl
+    dslakjndklasndk
     <button @click="cambiarVista">{{ textoBoton }}</button>
-    <router-view />
+    // aqui necesitamos cambios
   </div>
 </template>
 
